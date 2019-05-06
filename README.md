@@ -11,4 +11,4 @@
 
 ## 请你帮助
 
-- 欢迎提 [issue](https://github.com/happypeter/food/issues/new)给我相关的建议，指出不正确的食材或者食用方式，给出口感更好的烹饪方式，推荐更便利高效的炊具等等。
+- 欢迎提 [issue](https://github.com/happypeter/food/issues/new) 给我相关的建议，指出不正确的食材或者食用方式，给出口感更好的烹饪方式，推荐更便利高效的炊具等等。
