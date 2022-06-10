@@ -57,3 +57,9 @@ Body Weight: 72kg.
 Body Weight: 71.9kg.
 
 [img](imgs/20220609/)
+
+## 20220610
+
+Body Weight: 71.8kg. I only ate 6 or 9 piece of fries and half of the icecream. 250g beef. I need to run half marathon tommorrow, so I kind of need some carb in a hurry, hence the supper.
+
+[img](imgs/20220610/)
