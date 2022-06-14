@@ -1,3 +1,9 @@
+- fried chicken
+  - fried chicken is not keto friendly as grilled chicken since it's contain flour
+  - but I believe certain amount of carb is necessary for a beginner like me
+  - so maybe I will switch to grilled chicken later
+- avoid fat for supper, reason: 20220614
+- avoid high card meal, other than marathon preperation.
 ## From 胖胖
 坚定的决心，谁叫吃饭都不去，拒绝外食，不能偷吃
 早起空腹上称后，喝500毫升温水，凉水冰棍等所有凉的不能碰

@@ -76,3 +76,26 @@ Body Weight: 71.5kg.
 100 or so blueberries, 80% of that monster drink.
 
 [img](imgs/20220612/)
+
+## 20220613
+
+Jogging: 0km;
+walk: 10km;
+pushup: 10;
+sit-up: 0;
+Body Weight: 70.8kg.
+
+
+[img](imgs/20220613/)
+
+## 20220614
+
+Jogging: 0km;
+walk: 0km;
+pushup: 10;
+sit-up: 10;
+Body Weight: 71.3kg.
+
+Yesterday's chicken meal contained more than half of carb/sugar in the condiment and tomatoes, too much for the later 10km walk consumption. Last supper I had a bit meat and plant oil, now much, but enough to slow down the digest, so I could not poop everything out this morning. The above two reasons account for this mornings 0.5kg weight rise I believe.
+
+[img](imgs/20220613/)
