@@ -98,3 +98,27 @@ Body Weight: 71.3kg.
 Yesterday's chicken meal contained more than half of carb/sugar in the condiment and tomatoes, too much for the later 10km walk consumption. Last supper I had a bit meat and plant oil, now much, but enough to slow down the digest, so I could not poop everything out this morning. The above two reasons account for this mornings 0.5kg weight rise I believe.
 
 [img](imgs/20220614/)
+
+## 20220615
+
+Jogging: 0km;
+walk: 5km;
+pushup: 20;
+sit-up: 20;
+Body Weight: 70.6kg.
+
+Ate more than usual.
+
+[img](imgs/20220615/)
+
+## 20220616
+
+Jogging: 0km;
+walk: 5km;
+pushup: 25;
+sit-up: 25;
+Body Weight: 70.6kg.
+
+Fasting Day, breakfast only.
+
+[img](imgs/20220616/)
