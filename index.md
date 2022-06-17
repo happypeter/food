@@ -130,7 +130,8 @@ walk: 7km;
 pushup: 30;
 sit-up: 30;
 Body Weight: 69.6kg.
+total calories: 420+700+20+100+30=1270kcal
 
-I finished a big size KFC fries, which is 135g. these are 312kcal out of 100g fries. I only had half of these raspberries, and 500ml of that fat-free milk.
+I finished a big size KFC fries, which is 135g. these are 312kcal out of 100g fries. I only had half of these raspberries(30kcal), and 500ml of that fat-free milk(20kcal). two little cakes were 700kcal in total. the chocolate bar 脆脆鲨, 100kcal.
 
 [img](imgs/20220617/)
