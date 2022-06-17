@@ -122,3 +122,15 @@ Body Weight: 70.6kg.
 Fasting Day, breakfast only.
 
 [img](imgs/20220616/)
+
+## 20220617
+
+Jogging: 0km;
+walk: 7km;
+pushup: 30;
+sit-up: 30;
+Body Weight: 69.6kg.
+
+I finished a big size KFC fries, which is 135g. these are 312kcal out of 100g fries. I only had half of these raspberries, and 500ml of that fat-free milk.
+
+[img](imgs/20220617/)
