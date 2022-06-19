@@ -140,22 +140,23 @@ I finished a big size KFC fries, which is 135g. these are 312kcal out of 100g fr
 
 Jogging: 0km;
 walk: 7km;
-pushup: 30;
-sit-up: 30;
+pushup: 0;
+sit-up: 0;
 Body Weight: 69.6kg.
-total calories: 420+700+20+100+30+40+60=1370kcal
-
+total calories: a lot
 
 [img](imgs/20220618/)
 
 ## 20220619
 
 Jogging: 0km;
-walk: 0km;
-pushup: 0;
+walk: 4km;
+pushup: 60;
 sit-up: 0;
 Body Weight: 70.4kg.
-total calories:
+total calories: a lot of calories
 
+8 apricots, 2 peaches, 30% of the fries, 60% of the burg, 
+half of these colored peanuts, 10 litchis.
 
 [img](imgs/20220619/)
