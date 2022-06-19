@@ -135,3 +135,27 @@ total calories: 420+700+20+100+30+40+60=1370kcal
 I finished a big size KFC fries, which is 135g. these are 312kcal out of 100g fries. I only had half of these raspberries(30kcal), and 500ml of that fat-free milk(20kcal). two little cakes were 700kcal in total. the chocolate bar 脆脆鲨, 100kcal. kimqi 40kcal. water melon 200g, 60kcal.
 
 [img](imgs/20220617/)
+
+## 20220618
+
+Jogging: 0km;
+walk: 7km;
+pushup: 30;
+sit-up: 30;
+Body Weight: 69.6kg.
+total calories: 420+700+20+100+30+40+60=1370kcal
+
+
+[img](imgs/20220618/)
+
+## 20220619
+
+Jogging: 0km;
+walk: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 70.4kg.
+total calories:
+
+
+[img](imgs/20220619/)
