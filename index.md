@@ -160,3 +160,29 @@ total calories: a lot of calories
 half of these colored peanuts, 10 litchis.
 
 [img](imgs/20220619/)
+
+## 20220620
+
+Jogging: 0km;
+walk: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 70.2kg.
+total calories: a lot of calories
+
+Fixed Sewer pipe.
+
+[img](imgs/20220620/)
+
+## 20220621
+
+Jogging: 0km;
+walk: 4km;
+pushup: 60;
+sit-up: 0;
+Body Weight: 70.2kg.
+total calories: a lot of calories
+
+Back breaking hard githome concrete work for the wholeday, all rely on the energy of one egg.
+
+[img](imgs/20220621/)
