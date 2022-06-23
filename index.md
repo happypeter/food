@@ -186,3 +186,27 @@ total calories: a lot of calories
 Back breaking hard githome concrete work for the wholeday, all rely on the energy of one egg.
 
 [img](imgs/20220621/)
+
+## 20220622
+
+Jogging: 0km;
+walk: 4km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 69.2kg.
+total calories: a lot of calories
+
+
+[img](imgs/20220622/)
+
+## 20220623
+
+Jogging: 8km;
+walk: 4km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 69.2kg.
+total calories: a lot of calories
+
+
+[img](imgs/20220623/)
