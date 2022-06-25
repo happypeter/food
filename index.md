@@ -210,3 +210,27 @@ total calories: a lot of calories
 
 
 [img](imgs/20220623/)
+
+## 20220624
+Jogging: 0km;
+walking: 3km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.8kg.
+total calories: a lot of calories
+
+carbload for next morning 30km run, turned out it was not a good idea.
+
+[img](imgs/20220624/)
+
+## 20220625
+
+Jogging: 25km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.8kg.
+total calories: a lot of calories
+
+No supper, a lot of calories, lsd run.
+
+[img](imgs/20220625/)
