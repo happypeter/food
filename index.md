@@ -234,3 +234,15 @@ total calories: a lot of calories
 No supper, a lot of calories, lsd run.
 
 [img](imgs/20220625/)
+
+## 20220626
+
+Jogging: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.2kg.
+total calories: a lot of calories
+
+No supper, KFC food and fruites.
+
+[img](imgs/20220626/)
