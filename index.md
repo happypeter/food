@@ -246,3 +246,36 @@ total calories: a lot of calories
 No supper, KFC food and fruites.
 
 [img](imgs/20220626/)
+
+## 20220627
+
+Jogging: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.2kg.
+total calories: a lot of calories
+
+
+[img](imgs/20220627/)
+
+## 20220628
+
+Jogging: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.2kg.
+total calories: a lot of calories
+
+
+[img](imgs/20220628/)
+
+## 20220629
+
+Jogging: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.1kg.
+total calories: a lot of calories
+
+
+[img](imgs/20220629/)
