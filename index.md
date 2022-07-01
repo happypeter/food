@@ -272,10 +272,31 @@ total calories: a lot of calories
 ## 20220629
 
 Jogging: 0km;
+walking: 4km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.1kg.
+total calories: a lot of calories
+
+[img](imgs/20220629/)
+
+## 20220630
+
+Jogging: 0km;
+pushup: 0;
+sit-up: 0;
+Body Weight: 68.1kg.
+total calories: a lot of calories
+
+[img](imgs/20220630/)
+
+## 20220701
+
+Jogging: 2km;
 pushup: 0;
 sit-up: 0;
 Body Weight: 68.1kg.
 total calories: a lot of calories
 
 
-[img](imgs/20220629/)
+[img](imgs/20220701/)
