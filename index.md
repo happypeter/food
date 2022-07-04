@@ -300,3 +300,22 @@ total calories: a lot of calories
 
 
 [img](imgs/20220701/)
+
+## 20220702
+
+Body Weight: 68.1kg.
+
+[img](imgs/20220702/)
+
+## 20220703
+
+Body Weight: 68.1kg.
+
+
+[img](imgs/20220703/)
+
+## 20220704
+
+Body Weight: 68.1kg.
+
+[img](imgs/20220704/)
