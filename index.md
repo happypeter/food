@@ -319,3 +319,23 @@ Body Weight: 68.1kg.
 Body Weight: 68.1kg.
 
 [img](imgs/20220704/)
+
+## 20220705
+
+Body Weight: 67.8kg.
+
+[img](imgs/20220705/)
+
+## 20220706
+
+Body Weight: 67.8kg.
+
+[img](imgs/20220706/)
+
+## 20220707
+
+Only one meal, fasted 20hr.
+
+Body Weight: 67.8kg.
+
+[img](imgs/20220707/)
