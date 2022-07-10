@@ -339,3 +339,21 @@ Only one meal, fasted 20hr.
 Body Weight: 67.8kg.
 
 [img](imgs/20220707/)
+
+## 20220708
+
+Body Weight: 68.5kg.
+
+[img](imgs/20220708/)
+
+## 20220709
+
+Body Weight: 68.5kg.
+
+[img](imgs/20220709/)
+
+## 20220710
+
+Body Weight: 68.5kg.
+
+[img](imgs/20220710/)
