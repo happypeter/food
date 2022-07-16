@@ -12,3 +12,5 @@
     - sugar triggers insulin, carbs should be avoided expect fibers
     - fat does not trigger insulin
     - https://www.bilibili.com/video/BV1hT4y1Q74s
+- fullness
+  - two cups of water makes you 22% fuller https://www.bilibili.com/video/BV12q4y1M7Rv
