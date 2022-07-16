@@ -6,3 +6,9 @@
   - so maybe I will switch to grilled chicken later
 - avoid fat for supper, reason: 20220614
 - avoid high card meal, other than marathon preperation.
+- why keto?
+  - if you want to lose weight, you will love zero-insulin
+    - cause even a little insulin will provent you from burning fat
+    - sugar triggers insulin, carbs should be avoided expect fibers
+    - fat does not trigger insulin
+    - https://www.bilibili.com/video/BV1hT4y1Q74s
