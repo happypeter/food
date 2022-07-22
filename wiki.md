@@ -14,3 +14,6 @@
     - https://www.bilibili.com/video/BV1hT4y1Q74s
 - fullness
   - two cups of water makes you 22% fuller https://www.bilibili.com/video/BV12q4y1M7Rv
+- insulin Ketosis Diet To Lowering Carbs And Insulin - Carbs On Keto Diet – Dr.Berg
+
+  - https://www.youtube.com/watch?v=4t4OlImxtt0
