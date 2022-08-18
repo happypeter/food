@@ -5,3 +5,4 @@ Desktop, rightClick the img and save it.
 ```
 convert input.png -resize 50% output.jpg
 ```
+ipad
