@@ -538,3 +538,59 @@ Body Weight: 68.8kg.
 Body Weight: 68.8kg.
 
 [img](imgs/20220809/)
+
+## 20220810
+
+Body Weight: 68.8kg.
+
+[img](imgs/20220810/)
+
+## 20220811
+
+Body Weight: 68.8kg.
+
+[img](imgs/20220811/)
+
+## 20220812
+
+Body Weight: 68.4kg.
+
+[img](imgs/20220812/)
+
+## 20220813
+
+Body Weight: 68.8kg.
+
+[img](imgs/20220813/)
+
+## 20220814
+
+Body Weight: 68.0kg.
+
+[img](imgs/20220814/)
+
+## 20220815
+
+Body Weight: 68.0kg.
+
+[img](imgs/20220815/)
+
+## 20220816
+
+Body Weight: 68.0kg.
+
+[img](imgs/20220816/)
+
+## 20220817
+
+Body Weight: 68.0kg.
+
+[img](imgs/20220817/)
+
+## 20220818
+
+Body Weight: 67.5kg.
+
+[img](imgs/20220818/)
+
+
