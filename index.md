@@ -658,3 +658,10 @@ Body Weight: 67.5kg.
 Body Weight: 67.5kg.
 
 [img](imgs/20220829/)
+
+## 20221206
+
+New round of diet. Goal is 65kg, today 71kg.
+
+
+[img](imgs/20221206/)
