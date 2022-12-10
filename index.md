@@ -672,3 +672,15 @@ New round of diet. Goal is 65kg, today 71kg.
 ## 20221208
 
 [img](imgs/20221208/)
+
+## 20221209
+
+69.2kg
+
+[img](imgs/20221209/)
+
+## 20221210
+
+69.2kg
+
+[img](imgs/20221210/)
