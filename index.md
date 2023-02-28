@@ -51,6 +51,10 @@ Body Weight: 71kg.
 
 ## 20230227
 
-Body Weight: 69kg.
-
 [img](imgs/20230227/)
+
+## 20230228
+
+Body Weight: 68.55kg.
+
+[img](imgs/20230228/)
