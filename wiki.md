@@ -1,3 +1,23 @@
+
+
+## Meals
+
+Fried chicken
+Peanuts
+Stir fried dishes
+Boiled eggs
+Coffee
+
+## Disciplines
+- One meal per day
+- Only eat when ur stomach is empty
+- Don't fuel urself during a training unless is clearly needed
+- no raw vege or fruit 5hr before bed, no food 3hr 
+- giant meals are allowed from time to time
+- Photo everything
+- Anything stay in ur stamock for more than 3hr is toxin, don't eat too much peanuts or raw vegetables.
+- Ref https://www.bilibili.com/video/BV1ht4y1h7iZ/
+
 - keto requirements
   -  carb max is 20 grams
 - fried chicken
