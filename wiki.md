@@ -12,7 +12,7 @@
 
 ## tricks
 
-001 Trust ur Metabolic Flexibility 
+### 001 Trust ur Metabolic Flexibility 
 I took only 1000kcal yesterday and did a xuanwu lake 10km run. Plus the Zijin Mountain hiking before and 2hr walking after, I felt very tired and a little bit dizzy when I am in bed. I considered to have sth, but ended up with nothing. This morning, I felt weak when I woke up, but the energy level just went straight up since. Now is also noon I haven’t eat anything except a coffee with 10g sugar,  however I just did 30 pushups in one go and felt nothing. So yeah, just burn ur body fat, it fuels u as good as a meal. 
 
 - keto requirements
