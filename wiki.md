@@ -13,10 +13,11 @@
 ## tricks
 
 ### 001 Trust ur Metabolic Flexibility 
-I took only 1000kcal yesterday and did a xuanwu lake 10km run. Plus the Zijin Mountain hiking before and 2hr walking after, I felt very tired and a little bit dizzy when I am in bed. I considered to have sth, but ended up with nothing. This morning, I felt weak when I woke up, but the energy level just went straight up since. Now is also noon I haven’t eat anything except a coffee with 10g sugar,  however I just did 30 pushups in one go and felt nothing. So yeah, just burn ur body fat, it fuels u as good as a meal. 
+I took only 1000kcal yesterday and did a xuanwu lake 10km run. Plus the Zijin Mountain hiking before and 2hr walking after, I felt very tired and a little bit dizzy when I am in bed. I considered to have sth, but ended up with nothing. This morning, I felt weak when I woke up, but the energy level just went straight up since. Now is also noon I haven’t eat anything except a coffee with 10g sugar,  however I just did 30 pushups in one go and felt nothing. So yeah, just burn ur body fat, it fuels u 
 
-- keto requirements
-  -  carb max is 20 grams
+### carbload howto
+for a actual race, do two day carbload, 4000cal each day, no chilly peper,no raw vege, not too oily or too much. For the breakfast of the race day. a loaf with some salty. no instatant noodles, or anything too oily, 500cal or less, cause otherwise it will stay in ur stomach forever.
+
 - fried chicken
   - fried chicken is not keto friendly as grilled chicken since it's contain flour
   - but I believe certain amount of carb is necessary for a beginner like me
