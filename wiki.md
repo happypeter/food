@@ -21,16 +21,3 @@ for a actual race, do two day carbload, 4000cal each day, no chilly peper,no raw
 ### 003 hunger before sleep
 before and during the 23km trail run on Saturday, i took in 1000kcal. in the same afternoon, a loaf maybe 300kcal. yesterday i only took one burger, but a intense 4hr talk in English Corner, and 8km walk in cold air, ended up with fortigue and hunger at 10pm, i really thought i was in actual need of some food, but i did not eat. you know what, i had a very good sleep and feeling supper energetic right now.
 
-- avoid fat for supper, reason: 20220614
-- avoid high card meal, other than marathon preperation.
-- why keto?
-  - if you want to lose weight, you will love zero-insulin
-    - cause even a little insulin will provent you from burning fat
-    - sugar triggers insulin, carbs should be avoided expect fibers
-    - fat does not trigger insulin
-    - https://www.bilibili.com/video/BV1hT4y1Q74s
-- fullness
-  - two cups of water makes you 22% fuller https://www.bilibili.com/video/BV12q4y1M7Rv
-- insulin Ketosis Diet To Lowering Carbs And Insulin - Carbs On Keto Diet – Dr.Berg
-
-  - https://www.youtube.com/watch?v=4t4OlImxtt0
